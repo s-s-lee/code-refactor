@@ -4,11 +4,9 @@
 
 Updated Horiseon Social Solution Services' website for improved accessibility. Used semantic HTML tags rather than only div tags and fixed the CSS selectors.
 
-## Description
+### Preview of Horiseon's updated website
 
 Link to site: https://s-s-lee.github.io/code-refactor/
-
-### Preview of Horiseon's updated website
 
 <img alt="screenshot of Horiseon's website" src="./assets/images/horiseon-website-screenshot.png">
 
